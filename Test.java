@@ -4,7 +4,7 @@
  * @author (Rebecca)
  * @version (Nov.20th/23)
  */
-public class LiTestClass{
+public class T{
     public static void main(String[] args){
         //declare map objects
         MapCreator Map1 = new MapCreator();
